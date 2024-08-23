@@ -39,6 +39,13 @@ Learn operating systems: Gain knowledge of Windows, Linux, or macOS.
 
 By working backward from your final goal and addressing these milestones, you can create a structured plan to achieve your aspiration of becoming a Solutions Architect Associate.
 
+#### Two time management strategies I can start using in my professional life are the Pomodoro Technique and time blocking.
+
+**Pomodoro Technique:**  ![alt text](image-10.png)
+This method involves working in focused intervals of 25 minutes, followed by a 5-minute break. After completing four intervals, I’ll take a longer break of 15-30 minutes. This strategy will help me maintain high levels of concentration and prevent burnout by breaking down tasks into manageable chunks of time.
+
+**Time Blocking:** ![alt text](image-11.png)
+I’ll allocate specific blocks of time in my schedule for different tasks or activities, ensuring that each aspect of my work receives dedicated attention. This strategy will help me prioritize important tasks, reduce distractions, and ensure that I stay on track with my goals throughout the day.
 
 
 ![alt text](image-9.png)
