@@ -37,7 +37,7 @@ Learn programming fundamentals: Understand data structures, algorithms, and obje
 Develop problem-solving skills: Practice breaking down complex problems into smaller, solvable components.
 Learn operating systems: Gain knowledge of Windows, Linux, or macOS.
 
-By working backward from your final goal and addressing these milestones, you can create a structured plan to achieve your aspiration of becoming a Solutions Architect Associate.
+By working backward from my final goal and addressing these milestones, I can create a structured plan to achieve my aspiration of becoming a Solutions Architect Associate.
 
 #### Two time management strategies I can start using in my professional life are the Pomodoro Technique and time blocking.
 
